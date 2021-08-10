@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 30AD-5D00
+
+ Directory of C:\Users\Owner\Desktop\GitPro
+
+08/10/2021  11:04 AM    <DIR>          .
+08/10/2021  11:04 AM    <DIR>          ..
+08/10/2021  11:04 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  117,294,505,984 bytes free
